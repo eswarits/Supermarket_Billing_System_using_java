@@ -1,1 +1,1 @@
-# Supermarket_Billing_System_using_java
+# Supermarket_Management_using_java
